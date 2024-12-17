@@ -11,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/kismatmudvari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kismatmudvari" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kismat-mudvari-720a14300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kismat-mudvari-720a14300" height="30" width="40" /></a>
 <a href="https://fb.com/me.kismat.810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="me.kismat.810" height="30" width="40" /></a>
 <a href="https://instagram.com/kismat.mud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kismat.mud" height="30" width="40" /></a>
